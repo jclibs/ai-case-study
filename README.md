@@ -7,7 +7,7 @@ The company earns its revenue through its tiered membership plans and its partne
 
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6tLVqm39dfg/0.jpg)](https://www.youtube.com/watch?v=6tLVqm39dfg)\
-Meshy's main functions are creating 3D models from text promts and images, as seen in this demo video found at the top of [Meshy's documentation page](https://docs.meshy.ai/), or directly on their YouTube channel](https://www.youtube.com/@MeshyAI).
+Meshy's main functions are creating 3D models from text promts and images, as seen in this demo video found at the top of [Meshy's documentation page](https://docs.meshy.ai/), or directly on their [YouTube channel](https://www.youtube.com/@MeshyAI).
 
 ## Business Activities
 The company aims to give everyone the ability to quickly generate high quality 3D models, regardless of their level of experience in 3D modeling. Meshy's customers are individuals, studios, teams, or companies of various sizes, like Snap, YAHAHA, D5 Render, and KIRI Engine-3D Scanner. Meshy is intended first and foremost to be used by 3D artists, game developers, and creative coders, but is made to empower everyone to get creative with 3D.
