@@ -34,7 +34,7 @@ One feature I think could benefit Meshy is showing a little more of what's going
 
 This feature gives the user more insite into how exactly the program is turning their prompt into a fully textured 3D model. It is interesting, engaging, and likely not too difficult to implement. They would just need to create some new UI for it, and print some of the code running behind the scenes.
 
-Another feature I have seen on some generative 2D platforms is the ability to build on, or *evolve* a creation you have made, using it as base. This would allow users to tweak their generated models without having to generate a completely new one from scratch to see a change implemented. Meshy already has a refine tool to upgrade the detail and resoltion of a model, if they just add a place to input some new information using a similar method that could be used to adjust the model without trying to reinvent the wheel. This gives the users more control over what they are creating.
+Another feature I have seen on some generative 2D platforms is the ability to build on, or *evolve* a creation you have made, using it as a base. This would allow users to tweak their generated models without having to generate a completely new one from scratch to see a change implemented. Meshy already has a refine tool to upgrade the detail and resoltion of a model, if they just add a place to input some new information using a similar method that could be used to adjust the model without trying to reinvent the wheel. This gives the users more control over what they are creating.
 
 
 
