@@ -26,7 +26,7 @@ The team at Meshy managed to create their tool with a combination of these two m
 In this newly emerging field of generative 3D, whichever companies produce the best results most efficiently and with the most versatility in both utility and output will be the ones to rise above the rest. Meshy AI is one of the leading and most highly regarded companies in this field. It is often highly ranked when comparing different 3D AI platforms, coming in at number one out of seven in UNITE.AI's ["7 Best AI 3D Object Generators (August 2024)"](https://www.unite.ai/best-ai-3d-object-generators/) by Alex McFarland, and at number two out of six in Sam Frish and Bohdan Khomych's rankings. Collaborations with big companies like Snap also suggest that Meshy is doing very well.
 
 ## Recommendations
-One feature I think could benefit Meshy is showing a little more of what's going on behind the scenes. Competitor Masterpiece shows how it breaks down and interprets the user input before generating the model. For example in Masterpiece I used the input "mecha shark," and this is how the AI broke it down. It shows how the AI decided to interpret the prompt for both the shape of the 3D model and the texture.
+One feature I think could benefit Meshy is showing a little more of what's going on behind the scenes. Competitor Masterpiece shows how it breaks down and interprets the user input before generating the 3D model. For example in Masterpiece I used the input "mecha shark," and this is how the AI broke it down. It shows how the AI decided to interpret the prompt for both the shape of the 3D model and the texture.
 
 |Initial Prompt  |Shape | Paint Prompt |
 | :------------------: | :----------------: | :--------------: |
